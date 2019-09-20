@@ -12,6 +12,7 @@
 	<groupId>com.staples.edp</groupId>
 	<artifactId>AzureOps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+        <packaging>war</packaging>
 	<name>AzureOps</name>
 	<description>Demo project for Spring Boot</description>
 
